@@ -21,10 +21,6 @@ A compatible PDF file (e.g., medical documents like "21. Heart attack. Know the 
 
 Installation
 
-Clone the Repository:
-git clone https://github.com/your-username/medical-qa-generator.git
-cd medical-qa-generator
-
 
 Install Dependencies:
 pip install PyPDF2 requests ollama
